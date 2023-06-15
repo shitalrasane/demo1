@@ -1,0 +1,1 @@
+package abstract_concreate_class;
